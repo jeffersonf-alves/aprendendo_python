@@ -1,0 +1,6 @@
+Nome: maria, Idade:  23
+Nome: joão, Idade:  33
+Nome: pedro, Idade:  25
+Nome: Bia, Idade:  40
+Nome: Gabi, Idade:  50
+Nome: Tony, Idade:  12
